@@ -2,8 +2,7 @@
 Brazilian E-Commerce Data Analysis using SQL and Power BI. This project explores sales performance, customer behavior, product trends, payment methods, and delivery performance to generate meaningful business insights and support data-driven decision-making.
 
 ## Dataset Used
-- https://www.kaggle.com/olistbr/brazilian-ecommerce/home/?utm_source=chatgpt.com
-
+- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ## Questions ( KPIs )
 ### 1. Customer Analysis
 - Where customers come from (state, city) — geographic distribution
